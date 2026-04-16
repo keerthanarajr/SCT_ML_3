@@ -1,4 +1,4 @@
-# 🐱🐶 Cat vs Dog Image Classification using SVM + HOG
+# 🐱🐶 Cat vs Dog Image Classification 
 
 An **interactive Machine Learning web application** that classifies images as either a **Cat or a Dog**.
 
